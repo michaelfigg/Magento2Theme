@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/vendor/magento/theme-frontend-blank/web/js/responsive.js
